@@ -47,7 +47,7 @@ column_map = {
 }
 
 root = tk.Tk()
-root.title("Excel Se Dara Nikaalne Ka Software")
+root.title("Excel Se Data Nikaalne Ka Software")
 root.geometry("500x500")
 
 tk.Label(root, text="Select Field to Search:", font=("Arial", 12)).pack(pady=10)
